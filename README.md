@@ -6,7 +6,7 @@
 [![GitHub Repo Size](https://img.shields.io/bower/l/bootstrap?style=plastic)](https://choosealicense.com/licenses/mit/)
 
 ## Editor
-<img src="https://cai.kku.edu.sa/sites/cai.kku.edu.sa/themes/cai/cai.png" alt="https://cai.kku.edu.sa/en" style="width:200px;height:200;">
+<img src="https://cai.kku.edu.sa/sites/cai.kku.edu.sa/files/2022-05/Center-logo%402x_0.png" alt="https://cai.kku.edu.sa/en" style="width:200px;height:200;">
 
 > This project was developed from Center for Artificial Intelligence at KKU, [Link](https://cai.kku.edu.sa/).
 
